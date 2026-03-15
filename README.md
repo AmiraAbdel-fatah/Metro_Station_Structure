@@ -10,7 +10,7 @@ An efficient, Kotlin-based CLI application built to navigate the Cairo Metro net
 - **Clean Architecture:** Organized code following separation of concerns (Data, Domain, and Presentation layers).
 
 🛠️ Technical Implementation
-- **Language:** Kotlin 2.2.20
+- **Language:** Kotlin 
 - **Data Format:** JSON-based station management using **Gson**.
 - **Design Patterns:** Implemented **SOLID Principles** to ensure the code is scalable and maintainable.
 - **Logic:** Utilizing efficient algorithms to process station nodes and line transitions.
@@ -48,6 +48,7 @@ Route:
 Stations: 17
 Time: 54 min
 Fare: 15 EGP
+
 
 
 📁 Project Structure
